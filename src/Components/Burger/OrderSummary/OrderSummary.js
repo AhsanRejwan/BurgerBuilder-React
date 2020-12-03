@@ -15,7 +15,7 @@ const orderSummary = (props) => {
             <h3>Your Order:</h3>
             <p> Burger with</p>
             <ul>{ingredientSummary}</ul>
-            <p>Continue to checkout????</p>
+            <p>Continue to checkout????****</p>
             <button onClick={props.cancel}>Cancel</button>
             <button onClick={props.continue}>Continue</button>
         </Auxiiliary>
