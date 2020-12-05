@@ -2,12 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15207748-3a71-4980-8470-c31afa925a16" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Components/Burger/OrderSummary/OrderSummary.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Burger/OrderSummary/OrderSummary.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assets/Burger.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Logo/Logo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Logo/Logo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Navigation/NavigationItems/NavigationItem/NavigationItem.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Navigation/NavigationItems/NavigationItem/NavigationItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Navigation/NavigationItems/NavigationItems.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Navigation/NavigationItems/NavigationItems.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Navigation/Toolbar/Toolbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Navigation/Toolbar/Toolbar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Burger/BuildControls/BuildControls.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Burger/BuildControls/BuildControls.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Layout/Layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Layout/Layout.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Layout/Layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Layout/Layout.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="TestBranch" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -18,7 +33,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1l78yZxNQd5jwXVFFDLa4Rb7ZRz" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -33,6 +50,11 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Web Development\_Codes\BurgerBuilderProject\burger-builder-app\src\Assets" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -67,6 +89,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Teshting teshting" />
